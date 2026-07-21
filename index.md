@@ -279,3 +279,15 @@ Global Warming; Quantitative Geomorphology.
 
 *For the complete record of publications, presentations, grants, service, and membership,
 see the [PDF](/assets/cv/huck-rees-cv.pdf).*
+
+---
+
+## Contact
+{: #contact}
+
+I'm always glad to talk rivers, beaver, remote sensing, or potential collaborations.
+
+- **Email:** [jamesrees@ucsb.edu](mailto:jamesrees@ucsb.edu)
+- **GitHub:** [github.com/huck-rees](https://github.com/huck-rees)
+- **LinkedIn:** [huck-rees](https://www.linkedin.com/in/huck-rees-12b205157/)
+- **Department:** Department of Geography, University of California, Santa Barbara

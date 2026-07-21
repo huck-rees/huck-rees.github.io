@@ -42,3 +42,5 @@ nav:
     url: "#media"
   - title: CV
     url: "#cv"
+  - title: Contact
+    url: "#contact"

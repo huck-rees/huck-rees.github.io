@@ -4,6 +4,31 @@
   html {
     scroll-behavior: smooth;
   }
+
+  /* Widen the content column on larger screens.
+     The base theme locks the wrapper to 860px and the content to 500px;
+     here we give the content the room the theme withholds. */
+  @media print, screen and (min-width: 961px) {
+    .wrapper {
+      width: auto;
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 0 30px;
+    }
+    header {
+      width: 270px;
+    }
+    section {
+      width: auto;
+      float: none;
+      max-width: none;
+      margin-left: 310px;
+      padding-bottom: 50px;
+    }
+    footer {
+      width: 270px;
+    }
+  }
   /* Keep section headings clear of the top edge when jumped to */
   section h2[id],
   section h3[id] {
