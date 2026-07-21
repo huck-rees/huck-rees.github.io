@@ -13,11 +13,8 @@ permalink: /
 </figure>
 
 I am a 4th-year PhD candidate at **UC Santa Barbara Geography**, where I study all
-things rivers. My work spans scales — from the minute (sediment cores and geomorphic
-surveys measuring how a single beaver pond stores sediment and carbon in montane
-streams) to the gargantuan (multidecadal, global datasets of the world's largest and
-most dynamic river systems, used to estimate how sediment and carbon are reworked in
-floodplains over thousands of years).
+things rivers. My work spans scales from the minute: sediment dynamics of single beaver ponds - to the gargantuan: multidecadal, global datasets of the world's largest and
+most dynamic river systems.
 
 My work spans four themes:
 
@@ -39,7 +36,7 @@ My work spans four themes:
 ## Research
 {: #research}
 
-My work asks how rivers and the ecosystems within them store and move sediment and carbon —
+My work asks how rivers and the ecosystems within them store and move water, sediment, and carbon —
 across scales from a single beaver pond to entire continental river systems, and across
 timescales from a field season to millennia. It falls into four themes.
 
@@ -78,7 +75,7 @@ Beaver dams turn narrow mountain streams into complexes of ponds and wet meadows
 sediment and bury carbon. Using sediment cores, geomorphic surveys, and drone-based mapping,
 I quantify sedimentation and carbon-accretion rates behind beaver dams and ask how they vary
 across environments in the American West — and what that means for beaver-based restoration
-as a tool for wetland recovery, flood attenuation, and carbon storage.
+as a tool for wetland recovery, flood attenuation, sediment routing, and carbon storage.
 
 **Related publication:** Rees, Lininger, Landis & Briles (2024), *Assessing controls on
 sedimentation rates and sediment organic carbon accretion in beaver ponds*,
@@ -94,12 +91,11 @@ sedimentation rates and sediment organic carbon accretion in beaver ponds*,
 </figure>
 
 The Okavango Delta in Botswana — a UNESCO World Heritage Site — is sustained by an annual
-flood pulse whose timing and reach shape one of the planet's great wetland ecosystems. I
+flood pulse whose timing and reach shape one of the planet's most incredible wetland ecosystems. I
 build multidecadal satellite records of the Delta's inundation to track how that pulse is
 changing, and to understand the tectonic, climatic, and ecological controls behind it.
 Recent work reconstructs a 41-year monthly inundation record that reveals an abrupt
-redistribution of flood waters across the Delta, working toward the ability to anticipate
-where and when the water will go.
+redistribution of flood waters across the Delta, identifying localized areas of drying and wetting.
 
 ### 4. Flood adaptation in a changing world
 {: #flood-adaptation}
@@ -114,11 +110,11 @@ where and when the water will go.
   <figcaption>Fieldwork and stakeholder interviews in Odanah, Wisconsin — a community weighing retreat from repeated flooding.</figcaption>
 </figure>
 
-Flooding is among the costliest and most widespread hazards people face, and the choices
-communities make — protect, accommodate, or retreat — carry long consequences. I study the
+Flooding is among the costliest and most widespread natural hazards, and the choices
+communities make — protect, accommodate, or retreat — carry long-lasting consequences. I study the
 effectiveness of managed retreat and community relocation as flood-mitigation strategies,
-from small Midwestern towns to post-tsunami reconstruction in Japan, connecting physical
-flood science to the social and policy dimensions of adaptation.
+from small Midwestern towns on large river floodplains to post-tsunami reconstruction along the northern 
+coast of Japan, connecting empirical flood risk modeling to the social and policy dimensions of adaptation.
 
 **Related publications:**
 
