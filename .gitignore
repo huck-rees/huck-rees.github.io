@@ -1,0 +1,8 @@
+# Loose source files kept local; served copies live under assets/
+CV_July_2026.docx
+CV_July_2026.pdf
+Coto2.JPG
+
+# Jekyll build output
+_site/
+.jekyll-cache/

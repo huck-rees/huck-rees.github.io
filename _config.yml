@@ -1,5 +1,42 @@
 title: Huck Rees
 description: Fluvial geomorphologist, remote sensing scientist, beaver believer.
+url: https://huck-rees.github.io
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Headshot shown in the sidebar (rendered by the theme as {{ site.logo }})
+logo: /assets/img/headshot.jpg
+
+# Author metadata for SEO / social cards
+author:
+  name: Huck Rees
+twitter:
+  card: summary_large_image
+
+# Default social-card image for all pages (used by jekyll-seo-tag)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/headshot.jpg
+
+# Keep loose source files out of the published site
+# (the served copies live under assets/)
+exclude:
+  - CV_July_2026.docx
+  - CV_July_2026.pdf
+  - Coto2.JPG
+
+# Sidebar navigation (rendered by _layouts/default.html)
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: CV
+    url: /cv/

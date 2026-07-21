@@ -1,11 +1,34 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 ## About
 
-I am a current 4th year PhD candidate at UC Santa Barbara Geography, where I study all things rivers. My methods span from the minute - using sediment cores and geomorphic surveys to understand the impacts of a single beaver pond on sediment and carbon storage in montane streams - to the gargantuan - developing multidecadal, global datasets of the world's largest and most dynamic river systems to estimate how sediment and carbon are altered in floodplains over thousands of years. My current projects focus on three primary research questions: 1) How do beaver and beaver-based restoration approaches sequester sediment and carbon in different environments across the American West? 2) How does river planform, lithology, climate, and human alteration modify how rivers migrate, rework their floodplains, and modulate sediment and carbon residence times on long timescales? 3) Can we understand, and one day predict, how tectonic, climatic, and ecological factors impact the distribution of annual flood pulses in the Okavango Delta in Botswana?
+I am a 4th-year PhD candidate at **UC Santa Barbara Geography**, where I study all
+things rivers. My work spans scales — from the minute (sediment cores and geomorphic
+surveys measuring how a single beaver pond stores sediment and carbon in montane
+streams) to the gargantuan (multidecadal, global datasets of the world's largest and
+most dynamic river systems, used to estimate how sediment and carbon are reworked in
+floodplains over thousands of years).
 
-## Projects
+My work spans four themes:
 
-- **[RivMapper](https://github.com/huck-rees/RivMapper)** — a Python codebase for developing 2D water mask rasters from Landsat imagery, calculating rates of river migration, and estimating sediment storage and transit times in floodplains.
+1. **[Calibrating the geomorphic clock](/research/#geomorphic-clock)** —
+   reading sediment storage and transit times from how the world's rivers migrate.
+2. **[Sediment and carbon storage in beaver-mediated stream corridors](/research/#beaver)** —
+   how beaver ponds trap sediment and bury carbon across the American West.
+3. **[Mapping a changing flood pulse in a UNESCO World Heritage Site](/research/#okavango)** —
+   tracking the shifting annual flood of the Okavango Delta, Botswana.
+4. **[Flood adaptation in a changing world](/research/#flood-adaptation)** —
+   managed retreat and community relocation as flood-mitigation strategies.
+
+See my [research](/research/) for more detail, or browse my [publications](/publications/)
+and [CV](/cv/).
 
 ## Contact
 
-[Email](jamesrees@ucsb.edu) · [GitHub](https://github.com/huck-rees) · [LinkedIn](https://www.linkedin.com/in/huck-rees-12b205157/)
+[Email](mailto:jamesrees@ucsb.edu) ·
+[GitHub](https://github.com/huck-rees) ·
+[LinkedIn](https://www.linkedin.com/in/huck-rees-12b205157/)
