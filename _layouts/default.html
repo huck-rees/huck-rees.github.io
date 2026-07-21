@@ -27,10 +27,7 @@
         <nav class="site-nav">
           <ul>
             {% for item in site.nav %}
-            {% assign item_url = item.url | relative_url %}
-            <li{% if page.url == item.url %} class="active"{% endif %}>
-              <a href="{{ item_url }}">{{ item.title }}</a>
-            </li>
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
             {% endfor %}
           </ul>
         </nav>
@@ -48,5 +45,33 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      // Scroll-spy: highlight the nav item for the section currently in view
+      (function () {
+        var links = Array.prototype.slice.call(
+          document.querySelectorAll('.site-nav a[href^="#"]')
+        );
+        if (!links.length) return;
+        var sections = links
+          .map(function (l) { return document.getElementById(l.getAttribute('href').slice(1)); })
+          .filter(Boolean);
+
+        function onScroll() {
+          var pos = window.pageYOffset + 140;
+          var currentId = sections.length ? sections[0].id : null;
+          for (var i = 0; i < sections.length; i++) {
+            if (sections[i].offsetTop <= pos) currentId = sections[i].id;
+          }
+          links.forEach(function (l) {
+            var on = l.getAttribute('href') === '#' + currentId;
+            l.parentNode.classList.toggle('active', on);
+          });
+        }
+
+        window.addEventListener('scroll', onScroll, { passive: true });
+        window.addEventListener('resize', onScroll);
+        onScroll();
+      })();
+    </script>
   </body>
 </html>

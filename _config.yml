@@ -30,13 +30,15 @@ exclude:
   - CV_July_2026.pdf
   - Coto2.JPG
 
-# Sidebar navigation (rendered by _layouts/default.html)
+# Sidebar navigation (single-page anchors, rendered by _layouts/default.html)
 nav:
-  - title: Home
-    url: /
+  - title: About
+    url: "#about"
   - title: Research
-    url: /research/
+    url: "#research"
   - title: Publications
-    url: /publications/
+    url: "#publications"
+  - title: Media
+    url: "#media"
   - title: CV
-    url: /cv/
+    url: "#cv"

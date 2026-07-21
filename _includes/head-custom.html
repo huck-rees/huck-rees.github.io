@@ -1,5 +1,15 @@
 <!-- Custom styles layered on top of the minimal theme -->
 <style>
+  /* Smooth scrolling for in-page nav anchors */
+  html {
+    scroll-behavior: smooth;
+  }
+  /* Keep section headings clear of the top edge when jumped to */
+  section h2[id],
+  section h3[id] {
+    scroll-margin-top: 20px;
+  }
+
   /* Headshot in the sidebar */
   header img {
     width: 160px;
