@@ -38,4 +38,38 @@
   section p {
     line-height: 1.6;
   }
+
+  /* Figures in body content */
+  figure {
+    margin: 18px 0 24px 0;
+  }
+  /* Full-width figures and section headings clear any floated photos */
+  section h3,
+  figure:not(.photo) {
+    clear: both;
+  }
+  figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  }
+  figure figcaption {
+    font-size: 13px;
+    line-height: 1.45;
+    color: #555;
+    margin-top: 6px;
+    font-style: italic;
+  }
+  /* Smaller, right-floated field/personal photos on wider screens */
+  figure.photo {
+    max-width: 320px;
+  }
+  @media (min-width: 720px) {
+    figure.photo {
+      float: right;
+      margin: 4px 0 12px 24px;
+    }
+  }
 </style>

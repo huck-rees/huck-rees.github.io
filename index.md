@@ -6,6 +6,11 @@ permalink: /
 
 ## About
 
+<figure class="photo">
+  <img src="/assets/img/beavercon.jpg" alt="Huck Rees with a beaver mascot at BeaverCon">
+  <figcaption>Card-carrying beaver believer — at BeaverCon.</figcaption>
+</figure>
+
 I am a 4th-year PhD candidate at **UC Santa Barbara Geography**, where I study all
 things rivers. My work spans scales — from the minute (sediment cores and geomorphic
 surveys measuring how a single beaver pond stores sediment and carbon in montane
