@@ -198,20 +198,28 @@ and service.
 ## Media Coverage
 {: #media}
 
-- Gies, E. (2022). *Water Always Wins: Thriving in an Age of Drought and Deluge.*
-  University of Chicago Press.
-  [Link](https://press.uchicago.edu/ucp/books/book/chicago/W/bo161589950.html)
-- Cheshire, C. (2022). *As CU Hosts Global Climate Summit, Students Call for Fossil Fuel
-  Divestment.* Westword.
-  [Link](https://www.westword.com/news/university-colorado-divestment-fossil-fuels-climate-change-15592395)
-- Wise, C. (2019). *The radical approach these communities have taken to flood mitigation.*
-  PBS NewsHour.
-  [Link](https://www.pbs.org/newshour/show/the-radical-approach-these-communities-have-taken-to-flood-mitigation)
-- Kerlin, K., & Proudman, J. (2019). *Small Towns, Big Flood Waters.* UC Davis.
-  [Link](https://climatechange.ucdavis.edu/climate/news/small-towns-big-flood-waters)
-- Hersher, R. (2018). *Wisconsin Reservation Offers a Climate Success Story and a Warning.*
-  NPR.
-  [Link](https://www.npr.org/2018/08/15/632335735/wisconsin-reservation-offers-a-climate-success-story-and-a-warning)
+<ul>
+  <li>
+    <a href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo161589950.html"><img class="media-icon" src="https://www.google.com/s2/favicons?domain=press.uchicago.edu&amp;sz=64" alt=""> University of Chicago Press</a> —
+    Gies, E. (2022). <em>Water Always Wins: Thriving in an Age of Drought and Deluge.</em>
+  </li>
+  <li>
+    <a href="https://www.westword.com/news/university-colorado-divestment-fossil-fuels-climate-change-15592395"><img class="media-icon" src="https://www.google.com/s2/favicons?domain=westword.com&amp;sz=64" alt=""> Westword</a> —
+    Cheshire, C. (2022). <em>As CU Hosts Global Climate Summit, Students Call for Fossil Fuel Divestment.</em>
+  </li>
+  <li>
+    <a href="https://www.pbs.org/newshour/show/the-radical-approach-these-communities-have-taken-to-flood-mitigation"><img class="media-icon" src="https://www.google.com/s2/favicons?domain=pbs.org&amp;sz=64" alt=""> PBS NewsHour</a> —
+    Wise, C. (2019). <em>The radical approach these communities have taken to flood mitigation.</em>
+  </li>
+  <li>
+    <a href="https://giving.ucdavis.edu/impacts-giving/small-towns-big-flood-waters"><img class="media-icon" src="https://www.google.com/s2/favicons?domain=ucdavis.edu&amp;sz=64" alt=""> UC Davis</a> —
+    Kerlin, K., &amp; Proudman, J. (2019). <em>Small Towns, Big Flood Waters.</em>
+  </li>
+  <li>
+    <a href="https://www.npr.org/2018/08/15/632335735/wisconsin-reservation-offers-a-climate-success-story-and-a-warning"><img class="media-icon" src="https://www.google.com/s2/favicons?domain=npr.org&amp;sz=64" alt=""> NPR</a> —
+    Hersher, R. (2018). <em>Wisconsin Reservation Offers a Climate Success Story and a Warning.</em>
+  </li>
+</ul>
 
 ---
 
