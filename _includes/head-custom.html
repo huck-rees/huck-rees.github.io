@@ -1,19 +1,204 @@
-<!-- Custom styles layered on top of the minimal theme -->
+<!-- Custom styles layered on top of the minimal theme.
+     Hybrid "barebones/analog" vibe: sans-serif body for readable prose,
+     monospace for headings/nav/labels and the publications year column;
+     no shadows, no rounded corners, hairline rules, black links. -->
 <style>
+  :root {
+    --mono: ui-monospace, "SF Mono", "Cascadia Code", "Cascadia Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --ink: #141414;
+    --muted: #6b6b6b;
+    --rule: #e2e2e2;
+  }
+
   /* Smooth scrolling for in-page nav anchors */
   html {
     scroll-behavior: smooth;
   }
 
+  /* Sans body for long research prose */
+  body {
+    font-family: var(--sans);
+    color: var(--ink);
+  }
+  section p {
+    line-height: 1.6;
+  }
+
+  /* Links: plain black, underline only on body links */
+  a,
+  a:visited {
+    color: var(--ink);
+  }
+  a:hover {
+    color: #000;
+  }
+
+  /* Monospace, uppercase headings that read like index labels */
+  header h1,
+  header h1 a {
+    font-family: var(--mono);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  header p {
+    font-family: var(--mono);
+    font-size: 12px;
+    line-height: 1.5;
+    color: var(--muted);
+  }
+  section h2[id],
+  section h2 {
+    font-family: var(--mono);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 15px;
+    color: var(--ink);
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 6px;
+  }
+  section h3 {
+    font-family: var(--mono);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 13px;
+    color: var(--ink);
+  }
+  /* Keep section headings clear of the top edge when jumped to */
+  section h2[id],
+  section h3[id] {
+    scroll-margin-top: 20px;
+  }
+
+  /* Square headshot, no shadow */
+  header img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 0;
+    box-shadow: none;
+    display: block;
+    margin: 10px 0 15px 0;
+  }
+
+  /* Plain monospace nav; active section marked with an arrow, not color */
+  .site-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  .site-nav li {
+    margin: 0 0 2px 0;
+  }
+  .site-nav a {
+    display: block;
+    font-family: var(--mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 3px 0;
+    border: 0;
+    text-decoration: none;
+    color: var(--muted);
+  }
+  .site-nav a:hover {
+    color: var(--ink);
+    background: none;
+  }
+  .site-nav li.active a {
+    color: var(--ink);
+    font-weight: 700;
+  }
+  .site-nav li.active a::before {
+    content: "\2192\00a0";
+  }
+
   /* Small outlet icons embedded in each media-coverage link */
   .media-icon {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
     vertical-align: -3px;
     margin-right: 6px;
-    border-radius: 3px;
     box-shadow: none;
     display: inline;
+  }
+
+  /* Figures: hairline border, no shadow, square corners */
+  figure {
+    margin: 18px 0 24px 0;
+  }
+  section h3,
+  figure:not(.photo) {
+    clear: both;
+  }
+  figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+    box-shadow: none;
+    border: 1px solid var(--rule);
+  }
+  figure figcaption {
+    font-family: var(--mono);
+    font-style: normal;
+    font-size: 11.5px;
+    line-height: 1.5;
+    color: var(--muted);
+    margin-top: 6px;
+  }
+  figure.photo {
+    max-width: 320px;
+  }
+  @media (min-width: 720px) {
+    figure.photo {
+      float: right;
+      margin: 4px 0 12px 24px;
+    }
+  }
+
+  /* Publications / presentations: year (or status) in a narrow left column */
+  .pubs {
+    margin: 14px 0 8px 0;
+  }
+  .pub {
+    display: grid;
+    grid-template-columns: 74px 1fr;
+    gap: 2px 16px;
+    padding: 12px 0;
+    border-top: 1px solid var(--rule);
+  }
+  .pub:last-child {
+    border-bottom: 1px solid var(--rule);
+  }
+  .pub-year {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+    padding-top: 3px;
+    white-space: nowrap;
+  }
+  .pub-title {
+    font-weight: 600;
+    line-height: 1.4;
+  }
+  .pub-title a {
+    text-decoration: none;
+  }
+  .pub-title a:hover {
+    text-decoration: underline;
+  }
+  .pub-meta {
+    font-size: 14px;
+    color: var(--muted);
+    line-height: 1.5;
+    margin-top: 3px;
+  }
+  @media (max-width: 520px) {
+    .pub {
+      grid-template-columns: 1fr;
+      gap: 4px;
+    }
   }
 
   /* Widen the content column on larger screens.
@@ -38,84 +223,6 @@
     }
     footer {
       width: 270px;
-    }
-  }
-  /* Keep section headings clear of the top edge when jumped to */
-  section h2[id],
-  section h3[id] {
-    scroll-margin-top: 20px;
-  }
-
-  /* Headshot in the sidebar */
-  header img {
-    width: 160px;
-    height: 160px;
-    object-fit: cover;
-    border-radius: 50%;
-    display: block;
-    margin: 10px 0 15px 0;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
-  }
-  .site-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 20px 0;
-  }
-  .site-nav li {
-    margin: 0 0 6px 0;
-  }
-  .site-nav a {
-    display: block;
-    padding: 4px 10px;
-    border-left: 3px solid transparent;
-    text-decoration: none;
-    color: #267CB9;
-  }
-  .site-nav a:hover {
-    border-left-color: #069;
-    background: rgba(0, 0, 0, 0.03);
-  }
-  .site-nav li.active a {
-    border-left-color: #267CB9;
-    font-weight: bold;
-    color: #069;
-  }
-  /* Slightly roomier line height for long research prose */
-  section p {
-    line-height: 1.6;
-  }
-
-  /* Figures in body content */
-  figure {
-    margin: 18px 0 24px 0;
-  }
-  /* Full-width figures and section headings clear any floated photos */
-  section h3,
-  figure:not(.photo) {
-    clear: both;
-  }
-  figure img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius: 4px;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  }
-  figure figcaption {
-    font-size: 13px;
-    line-height: 1.45;
-    color: #555;
-    margin-top: 6px;
-    font-style: italic;
-  }
-  /* Smaller, right-floated field/personal photos on wider screens */
-  figure.photo {
-    max-width: 320px;
-  }
-  @media (min-width: 720px) {
-    figure.photo {
-      float: right;
-      margin: 4px 0 12px 24px;
     }
   }
 </style>

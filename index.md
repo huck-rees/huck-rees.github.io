@@ -12,8 +12,8 @@ permalink: /
 </figure>
 
 I am a 4th-year PhD candidate at **UC Santa Barbara Geography**, where I study all
-things rivers. My work spans scales from the minute: sediment dynamics of single beaver ponds - to the gargantuan: multidecadal, global datasets of the world's largest and
-most dynamic river systems.
+things rivers. My work spans scales, from the sediment dynamics of a single beaver pond to
+multidecadal, global datasets of the world's largest and most dynamic river systems.
 
 My work spans four themes:
 
@@ -141,55 +141,121 @@ and service.
 
 ### Peer-reviewed articles
 
-1. **Rees, J.**, Lininger, K.B., Landis, J., & Briles, C. (2024). Assessing controls on
-   sedimentation rates and sediment organic carbon accretion in beaver ponds.
-   *Science of the Total Environment,* 949, 174951.
-   [DOI](https://doi.org/10.1016/j.scitotenv.2024.174951)
-2. Ockelford, A., Wohl, E., … **Rees, J.**, … Aarnink, J. (2024). Working with wood in
-   rivers in the Western United States. *River Research and Applications.*
-3. Pinter, N., & **Rees, J.** (2021). Assessing managed flood retreat and community
-   relocation in the Midwest USA. *Natural Hazards,* 107, 497–518.
-   [DOI](https://doi.org/10.1007/s11069-021-04592-1)
-4. Pinter, N., Ishiwatari, M., Nonoguchi, A., Tanaka, Y., Casagrande, D., Durden, S., &
-   **Rees, J.** (2019). Large-scale managed retreat and structural protection following the
-   2011 Japan tsunami. *Natural Hazards,* 96, 1429–1436.
-   [DOI](https://doi.org/10.1007/s11069-019-03602-7)
+<div class="pubs">
+  <div class="pub">
+    <div class="pub-year">2024</div>
+    <div>
+      <div class="pub-title"><a href="https://doi.org/10.1016/j.scitotenv.2024.174951">Assessing controls on sedimentation rates and sediment organic carbon accretion in beaver ponds</a></div>
+      <div class="pub-meta"><strong>Rees, J.</strong>, Lininger, K.B., Landis, J., &amp; Briles, C. — <em>Science of the Total Environment</em>, 949, 174951.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">2024</div>
+    <div>
+      <div class="pub-title">Working with wood in rivers in the Western United States</div>
+      <div class="pub-meta">Ockelford, A., Wohl, E., … <strong>Rees, J.</strong>, … Aarnink, J. — <em>River Research and Applications</em>.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">2021</div>
+    <div>
+      <div class="pub-title"><a href="https://doi.org/10.1007/s11069-021-04592-1">Assessing managed flood retreat and community relocation in the Midwest USA</a></div>
+      <div class="pub-meta">Pinter, N., &amp; <strong>Rees, J.</strong> — <em>Natural Hazards</em>, 107, 497–518.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">2019</div>
+    <div>
+      <div class="pub-title"><a href="https://doi.org/10.1007/s11069-019-03602-7">Large-scale managed retreat and structural protection following the 2011 Japan tsunami</a></div>
+      <div class="pub-meta">Pinter, N., Ishiwatari, M., Nonoguchi, A., Tanaka, Y., Casagrande, D., Durden, S., &amp; <strong>Rees, J.</strong> — <em>Natural Hazards</em>, 96, 1429–1436.</div>
+    </div>
+  </div>
+</div>
 
 ### In review & in preparation
 
-- **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. *(submitted).* Calibrating
-  the geomorphic clock: remote sensing of sediment storage and transit timescales in
-  alluvial river corridors. *Geophysical Research Letters.*
-- McLeod, J.S., Ganti, V., Hampson, G.J., Bell, R.E., Slater, L.J., **Rees, H.**, &
-  Whittaker, A.C. *(submitted).* Global sediment transport intermittency is set by river
-  planform. *Nature Geoscience.*
-- WinklerPrins, L., Fontenot, K., … **Rees, H.**, et al. *(submitted).* Early career
-  perspectives on the next generation of deltaic science. *Estuaries and Coasts.*
-- **Rees, H.**, Crompton, O., Lourenço, M., WinklerPrins, L., Larsen, L., Caylor, K.K., &
-  Ganti, V. *(in prep).* A 41-year monthly inundation record reveals abrupt redistribution
-  of flood waters across the Okavango Delta since 2012. *For Nature Communications.*
-- WinklerPrins, L., Yang, W., Crompton, O., Lourenço, M., Ruer, M., Taylor, R.,
-  **Rees, H.**, & Larsen, L. *(in prep).* A validated land cover classification of the
-  Okavango Delta, 2023. *For Remote Sensing of the Environment.*
+<div class="pubs">
+  <div class="pub">
+    <div class="pub-year">submitted</div>
+    <div>
+      <div class="pub-title">Calibrating the geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial river corridors</div>
+      <div class="pub-meta"><strong>Rees, H.</strong>, Ganti, V., Greenberg, E., Li, G., &amp; Caylor, K. — <em>Geophysical Research Letters</em>.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">submitted</div>
+    <div>
+      <div class="pub-title">Global sediment transport intermittency is set by river planform</div>
+      <div class="pub-meta">McLeod, J.S., Ganti, V., Hampson, G.J., Bell, R.E., Slater, L.J., <strong>Rees, H.</strong>, &amp; Whittaker, A.C. — <em>Nature Geoscience</em>.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">submitted</div>
+    <div>
+      <div class="pub-title">Early career perspectives on the next generation of deltaic science</div>
+      <div class="pub-meta">WinklerPrins, L., Fontenot, K., … <strong>Rees, H.</strong>, et al. — <em>Estuaries and Coasts</em>.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">in prep</div>
+    <div>
+      <div class="pub-title">A 41-year monthly inundation record reveals abrupt redistribution of flood waters across the Okavango Delta since 2012</div>
+      <div class="pub-meta"><strong>Rees, H.</strong>, Crompton, O., Lourenço, M., WinklerPrins, L., Larsen, L., Caylor, K.K., &amp; Ganti, V. — for <em>Nature Communications</em>.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">in prep</div>
+    <div>
+      <div class="pub-title">A validated land cover classification of the Okavango Delta, 2023</div>
+      <div class="pub-meta">WinklerPrins, L., Yang, W., Crompton, O., Lourenço, M., Ruer, M., Taylor, R., <strong>Rees, H.</strong>, &amp; Larsen, L. — for <em>Remote Sensing of the Environment</em>.</div>
+    </div>
+  </div>
+</div>
 
 ### Other writing
 
-- **Rees, J.** (2019). Literature review of mechanisms and timescales involved in the
-  termination of the African Humid Period. *Prized Writing, University of California, Davis.*
+<div class="pubs">
+  <div class="pub">
+    <div class="pub-year">2019</div>
+    <div>
+      <div class="pub-title">Literature review of mechanisms and timescales involved in the termination of the African Humid Period</div>
+      <div class="pub-meta"><strong>Rees, J.</strong> — <em>Prized Writing, University of California, Davis</em>.</div>
+    </div>
+  </div>
+</div>
 
 ### Selected presentations
 
-- **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. (Dec 2025). Calibrating the
-  geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial
-  river corridors. *American Geophysical Union Fall Meeting,* New Orleans, LA.
-- Scamardo, J., Lininger, K.B., & **Rees, H.** (Oct 2025). How much sediment can a beaver
-  dam store: synthesizing drivers of beaver pond sedimentation. *7th International Symposium
-  on River Science,* Davis, CA.
-- **Rees, J.**, Ganti, V., & Caylor, K. (Dec 2024). Natural and anthropogenic controls on
-  floodplain reworking timescales and transient sediment storage in lowland river corridors.
-  *American Geophysical Union Fall Meeting,* Washington, D.C.
-- Lininger, K.B., & **Rees, J.** (Oct 2024). Sedimentation & carbon accretion in beaver
-  ponds & implications for restoration. *BeaverCon,* Boulder, CO.
+<div class="pubs">
+  <div class="pub">
+    <div class="pub-year">Dec 2025</div>
+    <div>
+      <div class="pub-title">Calibrating the geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial river corridors</div>
+      <div class="pub-meta"><strong>Rees, H.</strong>, Ganti, V., Greenberg, E., Li, G., &amp; Caylor, K. — <em>American Geophysical Union Fall Meeting</em>, New Orleans, LA.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">Oct 2025</div>
+    <div>
+      <div class="pub-title">How much sediment can a beaver dam store: synthesizing drivers of beaver pond sedimentation</div>
+      <div class="pub-meta">Scamardo, J., Lininger, K.B., &amp; <strong>Rees, H.</strong> — <em>7th International Symposium on River Science</em>, Davis, CA.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">Dec 2024</div>
+    <div>
+      <div class="pub-title">Natural and anthropogenic controls on floodplain reworking timescales and transient sediment storage in lowland river corridors</div>
+      <div class="pub-meta"><strong>Rees, J.</strong>, Ganti, V., &amp; Caylor, K. — <em>American Geophysical Union Fall Meeting</em>, Washington, D.C.</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-year">Oct 2024</div>
+    <div>
+      <div class="pub-title">Sedimentation &amp; carbon accretion in beaver ponds &amp; implications for restoration</div>
+      <div class="pub-meta">Lininger, K.B., &amp; <strong>Rees, J.</strong> — <em>BeaverCon</em>, Boulder, CO.</div>
+    </div>
+  </div>
+</div>
 
 *A full list of talks and posters is in my [CV](#cv).*
 
