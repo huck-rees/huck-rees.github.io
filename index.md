@@ -34,7 +34,8 @@ a holistic context with which we may guide restoration, management, action, and 
 
 [Email](mailto:jamesrees@ucsb.edu) ·
 [GitHub](https://github.com/huck-rees) ·
-[LinkedIn](https://www.linkedin.com/in/huck-rees-12b205157/)
+[LinkedIn](https://www.linkedin.com/in/huck-rees-12b205157/) ·
+[Google Scholar](https://scholar.google.com/citations?user=VdIf-LkAAAAJ&hl=en)
 
 ---
 
@@ -500,4 +501,5 @@ I'm always glad to talk rivers, beaver, remote sensing, or potential collaborati
 - **Email:** [jamesrees@ucsb.edu](mailto:jamesrees@ucsb.edu)
 - **GitHub:** [github.com/huck-rees](https://github.com/huck-rees)
 - **LinkedIn:** [huck-rees](https://www.linkedin.com/in/huck-rees-12b205157/)
+- **Google Scholar:** [scholar.google.com/citations](https://scholar.google.com/citations?user=VdIf-LkAAAAJ&hl=en)
 - **Department:** Department of Geography, University of California, Santa Barbara
