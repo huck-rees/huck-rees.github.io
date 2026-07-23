@@ -26,6 +26,12 @@ My work spans four themes:
 4. **[Flood adaptation in a changing world](#flood-adaptation)** —
    managed retreat and community relocation as flood-mitigation strategies.
 
+Threaded through all four is a single conviction: we must learn to read rivers — to
+understand their physical dynamics, and to restore their pre-disturbance processes,
+mechanics, and morphologies. Managing rivers with this in mind offers a plethora of
+co-benefits — environmental, ecological, social, financial, and agricultural — and gives us
+a holistic context with which we may guide restoration, management, action, and ourselves.
+
 [Email](mailto:jamesrees@ucsb.edu) ·
 [GitHub](https://github.com/huck-rees) ·
 [LinkedIn](https://www.linkedin.com/in/huck-rees-12b205157/)
