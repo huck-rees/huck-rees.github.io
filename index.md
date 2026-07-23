@@ -7,10 +7,6 @@ permalink: /
 ## About
 {: #about}
 
-<figure class="photo">
-  <img src="/assets/img/beaver-dam.jpg" alt="A beaver dam in a mountain stream">
-</figure>
-
 I am a 4th-year PhD candidate at **UC Santa Barbara Geography**, where I study all
 things rivers. My work spans scales, from the sediment dynamics of a single beaver pond to
 multidecadal, global datasets of the world's largest and most dynamic river systems.
