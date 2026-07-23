@@ -16,18 +16,6 @@
     scroll-behavior: smooth;
   }
 
-  /* Full-page beaver-dam backdrop: fixed, behind all content, faded
-     enough that text and figures stay fully legible over it. */
-  body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    z-index: -1;
-    background: url("/assets/img/beaver-dam.jpg") center center / cover no-repeat;
-    opacity: 0.16;
-    pointer-events: none;
-  }
-
   /* Sans body for long research prose */
   body {
     font-family: var(--sans);
