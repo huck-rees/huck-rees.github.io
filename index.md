@@ -42,10 +42,6 @@ a holistic context with which we may guide restoration, management, action, and 
 ## Research
 {: #research}
 
-My work asks how rivers and the ecosystems within them store and move water, sediment, and carbon —
-across scales from a single beaver pond to entire continental river systems, and across
-timescales from a field season to millennia. It falls into four themes.
-
 ### 1. Calibrating the geomorphic clock
 {: #geomorphic-clock}
 
@@ -69,7 +65,7 @@ masks and quantifying migration from satellite imagery.
 
 <figure>
   <img src="/assets/img/beaver-methods.png" alt="Methods for quantifying sediment storage behind beaver dams across timescales">
-  <figcaption>Repeat geomorphic surveys, historical air-photo time series, and depth-incremented cores with radiometric dating together constrain sedimentation and aggradation rates across timescales — from year-to-year to floodplain-aggradation — as an incised channel reconnects to its floodplain.</figcaption>
+  <figcaption>Repeat geomorphic surveys, historical air-photo time series, and depth-incremented cores with radiometric dating together constrain sedimentation and carbon accretion rates across timescales, from year-to-year to centennial and millennial-scale floodplain-aggradation, informing how beaver-based restoration strategies may assist us in reconnecting floodplains with incised channels and improve carbon stocks on the landscape.</figcaption>
 </figure>
 
 <figure class="photo">
@@ -78,10 +74,11 @@ masks and quantifying migration from satellite imagery.
 </figure>
 
 Beaver dams turn narrow mountain streams into complexes of ponds and wet meadows that trap
-sediment and bury carbon. Using sediment cores, geomorphic surveys, and drone-based mapping,
-I quantify sedimentation and carbon-accretion rates behind beaver dams and ask how they vary
-across environments in the American West — and what that means for beaver-based restoration
-as a tool for wetland recovery, flood attenuation, sediment routing, and carbon storage.
+sediment and bury carbon. Using sediment cores, geomorphic surveys, remote sensing, and
+radiometric dating, I quantify sediment and carbon accretion rates across timescales, from
+year-to-year to centennial and millennial-scale floodplain-aggradation, informing how
+beaver-based restoration strategies may assist us in reconnecting floodplains with incised
+channels and improve carbon stocks on the landscape.
 
 **Related publication:** Rees, Lininger, Landis & Briles (2024), *Assessing controls on
 sedimentation rates and sediment organic carbon accretion in beaver ponds*,
