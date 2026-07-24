@@ -65,7 +65,7 @@ masks and quantifying migration from satellite imagery.
 
 <figure>
   <img src="/assets/img/beaver-methods.png" alt="Methods for quantifying sediment storage behind beaver dams across timescales">
-  <figcaption>Repeat geomorphic surveys, historical air-photo time series, and depth-incremented cores with radiometric dating together constrain sedimentation and carbon accretion rates across timescales, from year-to-year to centennial and millennial-scale floodplain-aggradation, informing how beaver-based restoration strategies may assist us in reconnecting floodplains with incised channels and improve carbon stocks on the landscape.</figcaption>
+  <figcaption>Repeat geomorphic surveys, historical air-photo time series, and depth-incremented cores with radiometric dating can be used in tandem to constrain sedimentation and carbon accretion rates across timescales.</figcaption>
 </figure>
 
 <figure class="photo">
