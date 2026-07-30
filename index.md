@@ -15,7 +15,7 @@ I am a 4th-year PhD candidate at **UC Santa Barbara Geography**, where I study a
 things rivers. My work spans scales, from the sediment dynamics of a single beaver pond to
 multidecadal, global datasets of the world's largest and most dynamic river systems.
 
-My work spans four themes:
+I have four ongoing research projects:
 
 1. **[Calibrating the geomorphic clock](#geomorphic-clock)** —
    reading sediment storage and transit times from how the world's rivers migrate.
@@ -26,10 +26,10 @@ My work spans four themes:
 4. **[Flood adaptation in a changing world](#flood-adaptation)** —
    managed retreat and community relocation as flood-mitigation strategies.
 
-Threaded through all four is a single conviction: we must learn to read rivers — to
-understand their physical behavior, and to restore their pre-disturbance processes,
+Threaded through all four is a single theme, and a single conviction: we must learn to read
+rivers — to understand their physical behavior, and restore their pre-disturbance processes,
 mechanics, and morphologies. Managing rivers with this in mind offers a plethora of
-co-benefits — environmental, ecological, social, financial, and agricultural — and gives us
+co-benefits: environmental, ecological, social, financial, and agricultural, and gives us
 a holistic context with which we may guide restoration, management, action, and ourselves.
 
 [Email](mailto:jamesrees@ucsb.edu) ·
