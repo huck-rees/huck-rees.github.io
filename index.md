@@ -134,6 +134,8 @@ coast of Japan, connecting empirical flood risk modeling to the social and polic
 - **[RivMapper](https://github.com/huck-rees/RivMapper)** — a Python codebase for building
   2D water-mask rasters from Landsat imagery, calculating rates of river migration, and
   estimating sediment storage and transit times in floodplains.
+- **[AdDSWE](https://github.com/huck-rees/Okavango)** — a multiclass surface water
+  classification algorithm for the Okavango Delta.
 
 ---
 
