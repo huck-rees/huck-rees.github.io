@@ -239,6 +239,13 @@ and service.
 
 <div class="pubs">
   <div class="pub">
+    <div class="pub-year">Sep 2026</div>
+    <div>
+      <div class="pub-title">EMIT instrument and calibration</div>
+      <div class="pub-meta">Thompson, D.R., Eckert, R., <strong>Rees, J.</strong>, Brodrick, P., et al. — <em>EMIT Science and Applications Technical Interchange Meeting</em>, Pasadena, CA.</div>
+    </div>
+  </div>
+  <div class="pub">
     <div class="pub-year">Dec 2025</div>
     <div>
       <div class="pub-title">Calibrating the geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial river corridors</div>
@@ -337,7 +344,7 @@ protection, and carbon storage.
 - **Graduate Researcher**, Water, Vegetation & Society Lab / Surface Processes Lab —
   UC Santa Barbara, Department of Geography (Sep 2023–present)
 - **Summer Intern**, Imaging Spectroscopy Group — NASA Jet Propulsion Laboratory
-  (June 2026–present)
+  (June 2026–August 2026)
 - **Graduate Researcher**, Fluvial Ecogeomorphology Lab — University of Colorado, Boulder,
   Department of Geography (July 2021–Aug 2023)
 - **Water Resources Coordinator**, Water Specialty Group — HDR Engineering (Aug 2019–July 2021)
@@ -409,6 +416,8 @@ Author name in **bold**.
 
 ### Presentations & Talks
 
+- Thompson, D.R., Eckert, R., **Rees, J.**, Brodrick, P., et al. (Sep 2026). EMIT instrument
+  and calibration. *EMIT Science and Applications Technical Interchange Meeting,* Pasadena, CA.
 - **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. (Dec 2025). Calibrating the
   geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial
   river corridors. *American Geophysical Union Fall Meeting,* New Orleans, LA.
