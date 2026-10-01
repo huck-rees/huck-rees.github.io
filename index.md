@@ -221,6 +221,13 @@ and service.
       <div class="pub-meta"><strong>Rees, H.</strong>, Thompson, D.R., Eckert, R., Greenberg, E.B., &amp; Green, R.O. — for <em>Remote Sensing of Environment</em>.</div>
     </div>
   </div>
+  <div class="pub">
+    <div class="pub-year">in prep</div>
+    <div>
+      <div class="pub-title">Leaky deltas: sources or sinks in the global carbon cycle?</div>
+      <div class="pub-meta">Rahman, S., Chamberlain, L., … <strong>Rees, H.</strong>, … Zhang, L. — for <em>Global Biogeochemical Cycles</em>.</div>
+    </div>
+  </div>
 </div>
 
 ### Other writing
@@ -388,30 +395,33 @@ Author name in **bold**.
 2. **Rees, H.**, Thompson, D.R., Eckert, R., Greenberg, E.B., & Green, R.O. *(in prep).*
    Radiometric stability of the EMIT imaging spectrometer over North African
    pseudo-invariant calibration sites. *To be submitted to Remote Sensing of Environment.*
-3. **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. *(in review).* Calibrating
+3. Rahman, S., Chamberlain, L., … **Rees, H.**, … Zhang, L. *(in prep).* Leaky deltas:
+   sources or sinks in the global carbon cycle? *To be submitted to Global Biogeochemical
+   Cycles.*
+4. **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. *(in review).* Calibrating
    the geomorphic clock: remote sensing of sediment storage and transit timescales in
    alluvial river corridors. *Geophysical Research Letters.*
-4. WinklerPrins, L., Fontenot, K., … **Rees, H.**, et al. *(in review).* Early career
+5. WinklerPrins, L., Fontenot, K., … **Rees, H.**, et al. *(in review).* Early career
    perspectives on the next generation of deltaic science. *Estuaries and Coasts.*
-5. McLeod, J.S., Ganti, V., Hampson, G.J., Bell, R.E., Slater, L.J., **Rees, H.**, &
+6. McLeod, J.S., Ganti, V., Hampson, G.J., Bell, R.E., Slater, L.J., **Rees, H.**, &
    Whittaker, A.C. *(in review).* Global sediment transport intermittency is set by river
    planform. *Nature Geoscience.*
-6. **Rees, H.**, Crompton, O., Lourenço, M., WinklerPrins, L., Larsen, L., Caylor, K.K., &
+7. **Rees, H.**, Crompton, O., Lourenço, M., WinklerPrins, L., Larsen, L., Caylor, K.K., &
    Ganti, V. *(in review).* A 41-year monthly inundation record reveals abrupt redistribution
    of flood waters across the Okavango Delta since 2012. *Nature Communications.*
-7. **Rees, J.**, Lininger, K.B., Landis, J., & Briles, C. (2024). Assessing controls on
+8. **Rees, J.**, Lininger, K.B., Landis, J., & Briles, C. (2024). Assessing controls on
    sedimentation rates and sediment organic carbon accretion in beaver ponds. *Science of
    the Total Environment.* [DOI](https://doi.org/10.1016/j.scitotenv.2024.174951)
-8. Ockelford, A., Wohl, E., … **Rees, J.**, … Aarnink, J. (2024). Working with wood in
+9. Ockelford, A., Wohl, E., … **Rees, J.**, … Aarnink, J. (2024). Working with wood in
    rivers in the Western United States. *River Research and Applications.*
-9. Pinter, N., & **Rees, J.** (2021). Measuring success for managed flood retreat and
-   community relocation in the Midwest USA. *Natural Hazards.*
-   [DOI](https://doi.org/10.1007/s11069-021-04592-1)
-10. Pinter, N., Ishiwatari, M., Nonoguchi, A., Tanaka, Y., Casagrande, D., Durden, S., &
+10. Pinter, N., & **Rees, J.** (2021). Measuring success for managed flood retreat and
+    community relocation in the Midwest USA. *Natural Hazards.*
+    [DOI](https://doi.org/10.1007/s11069-021-04592-1)
+11. Pinter, N., Ishiwatari, M., Nonoguchi, A., Tanaka, Y., Casagrande, D., Durden, S., &
     **Rees, J.** (2019). Large-scale managed retreat and structural protection following the
     2011 Japan tsunami. *Natural Hazards.*
     [DOI](https://doi.org/10.1007/s11069-019-03602-7)
-11. **Rees, J.** (2019). Literature review of mechanisms and timescales involved in the
+12. **Rees, J.** (2019). Literature review of mechanisms and timescales involved in the
     termination of the African Humid Period. *Prized Writing, University of California, Davis.*
 
 ### Presentations & Talks
