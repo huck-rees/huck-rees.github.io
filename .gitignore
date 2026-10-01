@@ -1,6 +1,6 @@
 # Loose source files kept local; served copies live under assets/
-CV_July_2026.docx
-CV_July_2026.pdf
+CV_*.docx
+CV_*.pdf
 Coto2.JPG
 Beaver_graphical_abstract.png
 Beavercon.jpeg
@@ -11,6 +11,10 @@ Valmeyer_IL_managed retreat.jpg
 presenting beaver research.jpeg
 beaver dam.jpg
 FullSizeRender.JPG
+
+# Microsoft Office lock/temp files
+~$*
+~WRL*.tmp
 
 # Jekyll build output
 _site/
