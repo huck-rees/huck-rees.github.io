@@ -149,6 +149,13 @@ and service.
 
 <div class="pubs">
   <div class="pub">
+    <div class="pub-year">in press</div>
+    <div>
+      <div class="pub-title">Calibrating the geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial river corridors</div>
+      <div class="pub-meta"><strong>Rees, H.</strong>, Ganti, V., Greenberg, E., Li, G., &amp; Caylor, K. — <em>Geophysical Research Letters</em>.</div>
+    </div>
+  </div>
+  <div class="pub">
     <div class="pub-year">2024</div>
     <div>
       <div class="pub-title"><a href="https://doi.org/10.1016/j.scitotenv.2024.174951">Assessing controls on sedimentation rates and sediment organic carbon accretion in beaver ponds</a></div>
@@ -181,13 +188,6 @@ and service.
 ### In review & in preparation
 
 <div class="pubs">
-  <div class="pub">
-    <div class="pub-year">in review</div>
-    <div>
-      <div class="pub-title">Calibrating the geomorphic clock: remote sensing of sediment storage and transit timescales in alluvial river corridors</div>
-      <div class="pub-meta"><strong>Rees, H.</strong>, Ganti, V., Greenberg, E., Li, G., &amp; Caylor, K. — <em>Geophysical Research Letters</em>.</div>
-    </div>
-  </div>
   <div class="pub">
     <div class="pub-year">in review</div>
     <div>
@@ -400,17 +400,17 @@ Author name in **bold**.
 3. Rahman, S., Chamberlain, L., … **Rees, H.**, … Zhang, L. *(in prep).* Leaky deltas:
    sources or sinks in the global carbon cycle? *To be submitted to Global Biogeochemical
    Cycles.*
-4. **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. *(in review).* Calibrating
-   the geomorphic clock: remote sensing of sediment storage and transit timescales in
-   alluvial river corridors. *Geophysical Research Letters.*
-5. WinklerPrins, L., Fontenot, K., … **Rees, H.**, et al. *(in review).* Early career
+4. WinklerPrins, L., Fontenot, K., … **Rees, H.**, et al. *(in review).* Early career
    perspectives on the next generation of deltaic science. *Estuaries and Coasts.*
-6. McLeod, J.S., Ganti, V., Hampson, G.J., Bell, R.E., Slater, L.J., **Rees, H.**, &
+5. McLeod, J.S., Ganti, V., Hampson, G.J., Bell, R.E., Slater, L.J., **Rees, H.**, &
    Whittaker, A.C. *(in review).* Global sediment transport intermittency is set by river
    planform. *Nature Geoscience.*
-7. **Rees, H.**, Crompton, O., Lourenço, M., WinklerPrins, L., Larsen, L., Caylor, K.K., &
+6. **Rees, H.**, Crompton, O., Lourenço, M., WinklerPrins, L., Larsen, L., Caylor, K.K., &
    Ganti, V. *(in review).* A 41-year monthly inundation record reveals abrupt redistribution
    of flood waters across the Okavango Delta since 2012. *Nature Communications.*
+7. **Rees, H.**, Ganti, V., Greenberg, E., Li, G., & Caylor, K. *(in press).* Calibrating
+   the geomorphic clock: remote sensing of sediment storage and transit timescales in
+   alluvial river corridors. *Geophysical Research Letters.*
 8. **Rees, J.**, Lininger, K.B., Landis, J., & Briles, C. (2024). Assessing controls on
    sedimentation rates and sediment organic carbon accretion in beaver ponds. *Science of
    the Total Environment.* [DOI](https://doi.org/10.1016/j.scitotenv.2024.174951)
